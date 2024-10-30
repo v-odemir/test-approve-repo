@@ -30,6 +30,7 @@ import traceback
 import sys
 import warnings
 import weakref
+import weakref.test
 
 try:
     import ssl
