@@ -32,3 +32,4 @@ import warnings
 import weakref
 
 print("test")
+print("test2")
