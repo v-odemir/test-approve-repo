@@ -31,6 +31,7 @@ import sys
 import warnings
 import weakref
 import weakref.test
+import test.test
 
 try:
     import ssl
